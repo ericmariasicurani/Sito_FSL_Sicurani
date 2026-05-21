@@ -9,6 +9,7 @@ function Navbar() {
   const [scrolled, setScrolled] = useState(false)
   const loc = useLocation()
 
+  
   useEffect(() => {
     const h = () => setScrolled(window.scrollY > 40)
     window.addEventListener('scroll', h)
