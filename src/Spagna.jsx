@@ -33,7 +33,7 @@ export default function Spagna() {
               <h2 className="sec-title">L'esperienza in Spagna</h2>
               <div className="divider" />
               <p className="body-p">
-                Nel <strong>gennaio 2025</strong> ho partecipato al PCTO all'estero ad{' '}
+                Nel <strong>gennaio 2025</strong> ho partecipato al FSL all'estero ad{' '}
                 <strong>A Coruña</strong>, in Galizia, insieme ad altri 4 compagni di scuola.
                 Abbiamo lavorato per 3 settimane presso <strong>Family Corner</strong>,
                 una scuola privata d'inglese, dalle <strong>9:00 alle 14:00</strong>.

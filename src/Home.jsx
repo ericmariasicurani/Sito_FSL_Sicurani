@@ -50,7 +50,7 @@ export default function Home() {
       <section className="section section--alt">
         <div className="wrap">
           <span className="sec-label reveal">Il percorso</span>
-          <h2 className="sec-title reveal">PCTO in numeri</h2>
+          <h2 className="sec-title reveal">FSL in numeri</h2>
           <div className="divider reveal" />
           <div className="stats reveal">
             {[
@@ -119,7 +119,7 @@ export default function Home() {
           </h2>
           <div className="divider divider--center reveal" />
           <p className="sec-lead sec-lead--center reveal">
-            Oltre le competenze tecniche, il PCTO mi ha formato come professionista.
+            Oltre le competenze tecniche, l'FSL mi ha formato come professionista.
             Ogni settimana è stata un'occasione per crescere in modo concreto.
           </p>
           <div className="pills reveal">
@@ -154,7 +154,7 @@ export default function Home() {
         <div className="footer__line" />
         <div className="footer__sub">
           5BIA · ITT "Allievi-Sangallo" Terni · A.S. 2025/2026
-          &nbsp;&nbsp;·&nbsp;&nbsp; Presentazione PCTO per l'Esame di Stato
+          &nbsp;&nbsp;·&nbsp;&nbsp; Presentazione FSL per l'Esame di Stato
         </div>
       </footer>
     </main>

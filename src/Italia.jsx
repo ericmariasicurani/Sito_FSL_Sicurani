@@ -34,7 +34,7 @@ export default function Italia() {
               <div className="divider" />
               <p className="body-p">
                 Presso <strong>ComputerRivo</strong>, centro di assistenza informatica di Terni,
-                ho svolto due periodi di PCTO: <strong>giugno 2025</strong> e{' '}
+                ho svolto due periodi di FSL: <strong>giugno 2025</strong> e{' '}
                 <strong>settembre 2025</strong>, 3 settimane ciascuno.
               </p>
               <p className="body-p">

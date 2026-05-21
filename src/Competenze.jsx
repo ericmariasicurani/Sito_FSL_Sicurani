@@ -133,7 +133,7 @@ export default function Competenze() {
           <Link to="/" className="page-hero__back">← Torna all'Home</Link>
           <h1 className="page-hero__title">Competenze acquisite</h1>
           <p className="page-hero__sub">
-            9 settimane di PCTO · 2 paesi · 2 aziende · competenze reali
+            9 settimane di FSL · 2 paesi · 2 aziende · competenze reali
           </p>
         </div>
       </section>
@@ -142,7 +142,7 @@ export default function Competenze() {
       <section className="section section--alt">
         <div className="wrap tc">
           <p className="sec-lead sec-lead--center reveal" style={{ maxWidth: '820px' }}>
-            Il PCTO mi ha permesso di sviluppare competenze in tre aree distinte:
+            L'FSL mi ha permesso di sviluppare competenze in tre aree distinte:
             la <strong style={{ color: 'var(--gold)' }}>comunicazione digitale</strong> e
             il marketing (Spagna), l'<strong style={{ color: 'var(--green-light)' }}>informatica
             hardware e software</strong> (Italia), e le <strong style={{ color: 'var(--text)' }}>competenze
@@ -215,9 +215,9 @@ export default function Competenze() {
           <div className="concl-grid reveal">
             <div className="concl-card">
               <div className="concl-card__num">01</div>
-              <h3 className="concl-card__title">Il PCTO cambia il modo di vedere il lavoro</h3>
+              <h3 className="concl-card__title">Il percorso FSL cambia il modo di vedere il lavoro</h3>
               <p className="concl-card__text">
-                Prima del PCTO il "mondo del lavoro" era un concetto astratto. Dopo 9 settimane
+                Prima del FSL il "mondo del lavoro" era un concetto astratto. Dopo 9 settimane
                 in due aziende reali, in due paesi diversi, è diventato qualcosa di concreto e
                 comprensibile. Ho visto come funziona un'azienda dall'interno, quali sono le
                 dinamiche reali, cosa si aspetta un datore di lavoro da un collaboratore.
@@ -231,7 +231,7 @@ export default function Competenze() {
                 Molte cose studiate a scuola — reti, sistemi operativi, comunicazione —
                 che sembravano astratte hanno trovato un'applicazione pratica immediata.
                 Capire il perché di ciò che si studia cambia completamente il modo in cui
-                lo si apprende e lo si ricorda. Il PCTO mi ha motivato a studiare con più consapevolezza.
+                lo si apprende e lo si ricorda. L'<FSL></FSL> mi ha motivato a studiare con più consapevolezza.
               </p>
             </div>
 
