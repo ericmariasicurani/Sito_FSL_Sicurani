@@ -15,12 +15,12 @@ const AREE = [
       {
         s: 'GD',
         title: 'Graphic Design con Canva',
-        desc: 'Realizzazione di locandine promozionali, grafiche per social e materiali stampati. Uso professionale di template, palette colori e tipografia per mantenere un\'identità visiva coerente e riconoscibile.',
+        desc: "Realizzazione di locandine promozionali, grafiche per social e materiali stampati. Uso professionale di template, palette colori e tipografia per mantenere un'identità visiva coerente e riconoscibile.",
       },
       {
         s: 'AI',
         title: 'Intelligenza Artificiale applicata',
-        desc: 'Utilizzo di Gemini e altri strumenti AI per generare e ottimizzare testi. Ho sviluppato un approccio critico: l\'AI amplifica le capacità umane ma richiede direzione, valutazione e revisione da parte di chi la usa.',
+        desc: "Utilizzo di Gemini e altri strumenti AI per generare e ottimizzare testi. Ho sviluppato un approccio critico: l'AI amplifica le capacità umane ma richiede direzione, valutazione e revisione da parte di chi la usa.",
       },
       {
         s: 'WB',
@@ -53,7 +53,7 @@ const AREE = [
       {
         s: 'HW',
         title: 'Hardware & Componentistica',
-        desc: 'Smontaggio e rimontaggio di computer desktop. Identificazione, funzione e sostituzione di CPU, RAM, scheda madre, HDD/SSD, GPU, alimentatore, dissipatori. Conoscenza pratica dell\'architettura di un PC.',
+        desc: "Smontaggio e rimontaggio di computer desktop. Identificazione, funzione e sostituzione di CPU, RAM, scheda madre, HDD/SSD, GPU, alimentatore, dissipatori. Conoscenza pratica dell'architettura di un PC.",
       },
       {
         s: '[P]',
@@ -73,7 +73,7 @@ const AREE = [
       {
         s: 'SWP',
         title: 'Sostituzione componenti',
-        desc: 'Swap di RAM, sostituzione HDD con SSD con migrazione dati, cambio pasta termica e dissipatori. Verifica compatibilità componenti prima dell\'acquisto, smontaggio e rimontaggio ordinato e sicuro del case.',
+        desc: "Swap di RAM, sostituzione HDD con SSD con migrazione dati, cambio pasta termica e dissipatori. Verifica compatibilità componenti prima dell'acquisto, smontaggio e rimontaggio ordinato e sicuro del case.",
       },
     ],
     variant: '--green',
@@ -142,7 +142,7 @@ export default function Competenze() {
       <section className="section section--alt">
         <div className="wrap tc">
           <p className="sec-lead sec-lead--center reveal" style={{ maxWidth: '820px' }}>
-            L'FSL mi ha permesso di sviluppare competenze in tre aree distinte:
+            L'FSL mi ha permesso di sviluppare competenze in three aree distinte:
             la <strong style={{ color: 'var(--gold)' }}>comunicazione digitale</strong> e
             il marketing (Spagna), l'<strong style={{ color: 'var(--green-light)' }}>informatica
             hardware e software</strong> (Italia), e le <strong style={{ color: 'var(--text)' }}>competenze
@@ -231,7 +231,7 @@ export default function Competenze() {
                 Molte cose studiate a scuola — reti, sistemi operativi, comunicazione —
                 che sembravano astratte hanno trovato un'applicazione pratica immediata.
                 Capire il perché di ciò che si studia cambia completamente il modo in cui
-                lo si apprende e lo si ricorda. L'<FSL></FSL> mi ha motivato a studiare con più consapevolezza.
+                lo si apprende e lo si ricorda. L'FSL mi ha motivato a studiare con più consapevolezza.
               </p>
             </div>
 
@@ -242,7 +242,7 @@ export default function Competenze() {
                 Lavorare in Spagna in inglese, in un contesto culturale diverso, mi ha dato
                 una sicurezza e una flessibilità che nessun corso di lingua avrebbe potuto darmi.
                 Ho capito che la comunicazione internazionale è una competenza fondamentale nel
-                mondo professionale di oggi, e che costruirla richiede esperienza diretta.
+                mondo professionale di oggi, e che costruirla richiede experience diretta.
               </p>
             </div>
 
