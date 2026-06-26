@@ -32,11 +32,6 @@ const AREE = [
         title: 'Ottimizzazione SEO',
         desc: 'Ottimizzazione dei contenuti per i motori di ricerca: titoli, meta descrizioni, testi ottimizzati per parole chiave. Risultato concreto: prime posizioni su Google per "learning centre coruna".',
       },
-      {
-        s: 'RC',
-        title: 'Sviluppo React & CSS',
-        desc: 'Realizzazione di questo sito di presentazione con React e Vite. Componenti riutilizzabili, routing con React Router, design system CSS custom, animazioni scroll-reveal.',
-      },
     ],
     variant: '',
   },
@@ -58,7 +53,7 @@ const AREE = [
       {
         s: '[P]',
         title: 'Riparazione stampanti',
-        desc: 'Diagnosi e risoluzione dei problemi più comuni: pulizia testine, reset sensori carta, manutenzione meccanica. Capacità di spiegare chiaramente il problema al cliente e indicare la soluzione corretta.',
+        desc: 'Diagnosi e risoluzione dei problemi più comuns: pulizia testine, reset sensori carta, manutenzione meccanica. Capacità di spiegare chiaramente il problema al cliente e indicare la soluzione corretta.',
       },
       {
         s: 'OS',
@@ -142,7 +137,7 @@ export default function Competenze() {
       <section className="section section--alt">
         <div className="wrap tc">
           <p className="sec-lead sec-lead--center reveal" style={{ maxWidth: '820px' }}>
-            L'FSL mi ha permesso di sviluppare competenze in three aree distinte:
+            L'FSL mi ha permesso di sviluppare competenze in tre aree distinte:
             la <strong style={{ color: 'var(--gold)' }}>comunicazione digitale</strong> e
             il marketing (Spagna), l'<strong style={{ color: 'var(--green-light)' }}>informatica
             hardware e software</strong> (Italia), e le <strong style={{ color: 'var(--text)' }}>competenze
